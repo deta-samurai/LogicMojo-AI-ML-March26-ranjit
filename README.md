@@ -1,0 +1,1 @@
+This repo is for assignments and projects for the LOGICMOJO AI/ML course.
