@@ -1,1 +1,15 @@
-.csv
+# Large data files
+*.csv
+*.parquet
+*.parq
+*.xlsx
+*.xls
+
+# Jupyter
+.ipynb_checkpoints/
+*/__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
